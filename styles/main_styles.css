@@ -3433,6 +3433,10 @@ input[type="submit" i]
 	border-radius: 20px;
 	overflow: hidden;
 }
+.blog_video_container iframe
+{
+	border: none;
+}
 .blog_video_container_half
 {
 	width: calc(50% - 15px);
